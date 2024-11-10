@@ -23,3 +23,4 @@
 # Maintainers and contributors
 # Maintained by Sakshi Pandey.
 # Contributions are welcome to improve the project! You can fork fork the repo and submit a pull request.
+# Feel free to reach out to me via mail: pandeysakshi9315@gmail.com
